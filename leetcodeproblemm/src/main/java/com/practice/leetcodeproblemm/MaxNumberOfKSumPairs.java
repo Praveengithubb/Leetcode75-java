@@ -1,10 +1,5 @@
 package com.practice.leetcodeproblemm;
-
-import static org.junit.Assert.assertEquals;
-
 import java.util.Arrays;
-
-import org.junit.Test;
 
 public class MaxNumberOfKSumPairs {
 	public static int maxOperations(int[] nums, int k) {
