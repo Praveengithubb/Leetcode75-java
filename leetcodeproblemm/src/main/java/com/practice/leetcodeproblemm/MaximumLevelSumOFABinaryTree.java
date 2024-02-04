@@ -3,9 +3,11 @@ package com.practice.leetcodeproblemm;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import com.practice.leetcodeproblemm.SearchInABinarySearchTree.Node;
+
 class TreeNode {
 	int val;
-	TreeNode left;
+	Node left;
 	TreeNode right;
 
 	TreeNode(int x) {
